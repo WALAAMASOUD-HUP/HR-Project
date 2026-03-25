@@ -65,3 +65,7 @@ ________________________________________
 3.	Hover over visuals for additional insights
 4.	Switch between Overview and Employee List pages
 
+Online Interactive Report :
+
+https://public.tableau.com/app/profile/walaa.a.hafeez/viz/HRDashboard_17580005675500/HRSummary
+
